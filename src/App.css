@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    background-color:floralwhite;
+}
+.container{
+    max-width:430px;
+    position: absolute;
+    top: 34%;
+    left: 38%;
+    height: 150px;
+    display :flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+}
